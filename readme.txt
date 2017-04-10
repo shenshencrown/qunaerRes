@@ -8,3 +8,5 @@ merge new mode.
 aaa
 bbbb
 abc
+add something
+branch shen add test.
